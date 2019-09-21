@@ -1,7 +1,7 @@
 Resume
 ======
 
-Main data
+main data
 ---------
 
 **Aleksander Miheev**
